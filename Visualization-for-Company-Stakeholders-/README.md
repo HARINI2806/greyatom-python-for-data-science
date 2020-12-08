@@ -8,7 +8,7 @@ After completing this project, you will have a better understanding of data visu
 * Scatter plotting<br>
 * Kernel Density plotting<br>
 * Subplot operations<br>
-Axes modifications<br>
+* Axes modifications<br>
 <b>Step 1:</b><br>
 Let's start with the simple task of visualizing the company's record with respect to loan approvals.<br>
 <b>Step 2: Everyone needs money </b><br>
