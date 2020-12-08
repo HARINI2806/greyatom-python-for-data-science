@@ -2,9 +2,9 @@
 Dream Housing Finance Inc. specializes in home loans across different market segments - rural, urban and semi-urban. <br> Thier loan eligibility process is based on customer details provided while filling an online application form.<br> To create a targeted marketing campaign for different segments, they have asked for a comprehensive analysis of the data collected so far.
 <br><b>Learnings from the project</b></br>
 After completing this project, you will have better grip on working with pandas. In this project you will apply following concepts.<br>
-Dataframe slicing<br>
-Dataframe aggregation<br>
-Pivot table operations<br>
+* Dataframe slicing<br>
+* Dataframe aggregation<br>
+* Pivot table operations<br>
 <b>Approach taken to solve the problem</b><br>
 <b>Step 1:</b><br>
 Let's check which variable is categorical and which one is numerical so that you will get a basic idea about the features of the bank dataset.<br>
